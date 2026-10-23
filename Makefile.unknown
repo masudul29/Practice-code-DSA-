@@ -1,0 +1,21 @@
+# Compiler & flags
+CC = gcc
+CFLAGS = -Wall
+
+# Targets
+all: number_formatter text_formatter input_parser table_formatter
+
+number_formatter: number_formatter.c
+	$(CC) $(CFLAGS) -o number_formatter number_formatter.c
+
+text_formatter: text_formatter.c
+	$(CC) $(CFLAGS) -o text_formatter text_formatter.c
+
+input_parser: input_parser.c
+	$(CC) $(CFLAGS) -o input_parser input_parser.c
+
+table_formatter: table_formatter.c
+	$(CC) $(CFLAGS) -o table_formatter table_formatter.c
+
+clean:
+	rm -f number_formatter text_formatter input_parser table_formatter

@@ -1,0 +1,13 @@
+Enter a string (no spaces): Enter a character: 
+String Formatting:
+Default: Rafsun
+Right-aligned (width 15):          Rafsun
+Left-aligned (width 15): Rafsun         
+First 3 characters: Raf
+Last 4 characters: fsun
+
+Character Formatting:
+As character: R
+As decimal: 82
+As hexadecimal: 52
+Formatted: The character 'R' has ASCII value 82

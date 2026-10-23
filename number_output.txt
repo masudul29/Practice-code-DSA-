@@ -1,0 +1,14 @@
+Enter an integer: Enter a floating-point number: 
+Integer Formatting:
+Default: 67
+Right-aligned (width 10):         67
+Left-aligned (width 10): 67        
+Zero-padded (width 10): 0000000067
+With sign: +67
+
+Float Formatting:
+Default: 37.210000
+2 decimal places: 37.21
+4 decimal places: 37.2100
+Scientific: 3.721000e+01
+Scientific (3 decimal): 3.721e+01

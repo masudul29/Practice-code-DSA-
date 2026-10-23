@@ -1,0 +1,19 @@
+Enter product data for 5 items:
+
+Product 1 (ID Name Price Quantity Discount%): Product 2 (ID Name Price Quantity Discount%): Product 3 (ID Name Price Quantity Discount%): Product 4 (ID Name Price Quantity Discount%): Product 5 (ID Name Price Quantity Discount%): 
+Product Table:
++------+----------------+-----------+----------+----------+-------------+
+| ID   | Name           | Price     | Quantity | Discount | Total Value |
++------+----------------+-----------+----------+----------+-------------+
+| 0    |                |      0.00 |        0 |     0.0% |        0.00 |
+| 0    |                |      0.00 |        0 |     0.0% |        0.00 |
+| 0    |                |      0.00 |        0 |     0.0% |        0.00 |
+| 0    |                |      0.00 |        0 |     0.0% |        0.00 |
+| 0    |                |      0.00 |        0 |     0.0% |        0.00 |
++------+----------------+-----------+----------+----------+-------------+
+
+Summary Statistics:
+Grand Total Value: $0.00
+Average Price: $0.00
+Highest Priced:  ($0.00)
+Lowest Priced:  ($0.00)

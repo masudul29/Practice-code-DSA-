@@ -1,0 +1,23 @@
+CC = gcc
+CFLAGS = -std=c11 -Wall -Wextra -Wpedantic -O2
+
+PROGS = number_formatter text_formatter input_parser table_formatter
+
+all: $(PROGS)
+
+number_formatter: number_formatter.c
+	$(CC) $(CFLAGS) $< -o $@
+
+text_formatter: text_formatter.c
+	$(CC) $(CFLAGS) $< -o $@
+
+input_parser: input_parser.c
+	$(CC) $(CFLAGS) $< -o $@
+
+table_formatter: table_formatter.c
+	$(CC) $(CFLAGS) $< -o $@
+
+clean:
+	rm -f $(PROGS) *.o
+
+.PHONY: all clean

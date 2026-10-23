@@ -1,0 +1,20 @@
+Example 1:
+Enter BDT amount: Amount in words: 34 lac 64 thousand 6 hundred 67 taka only
+
+Do you want to continue? (Yes/No): 
+Example 2:
+Enter BDT amount: Amount in words: 3 lac 89 thousand 7 hundred 57 taka only
+
+Do you want to continue? (Yes/No): 
+Example 3:
+Enter BDT amount: Amount in words: 78 lac 96 thousand 6 hundred 76 taka only
+
+Do you want to continue? (Yes/No): 
+Example 4:
+Enter BDT amount: Amount in words: 98 lac 76 thousand 7 hundred 36 taka only
+
+Do you want to continue? (Yes/No): 
+Example 5:
+Enter BDT amount: Amount in words: 8 lac 74 thousand 8 hundred 73 taka only
+
+Do you want to continue? (Yes/No): 

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1743445502 source:c:\users\sat\desktop\masudul\mycode\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1761409749 source:c:\users\sat\desktop\masudul\hello.c
+	<stdio.h>
+

@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1764493938 source:c:\users\sat\desktop\masudul\myproject\con verter.c
+	<stdio.h>
+	<string.h>
+	"converter.h"
+
+1764494052 c:\users\sat\desktop\masudul\myproject\converter.h
+
+1764494000 source:c:\users\sat\desktop\masudul\myproject\main.c
+	<stdio.h>
+	<stdlib.h>
+	"converter.h"
+

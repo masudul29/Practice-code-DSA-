@@ -1,0 +1,10 @@
+Enter date (mm/dd/yyyy): Formatted date: November 7, 2025
+
+Enter time (hh:mm:ss): 12-hour format: 9:58:23 PM
+
+Enter product code (ABC-1234-XYZ): Components: 
+GFC, 679, MRR
+
+Enter simple expression (num operator num): Result: 12.00
+
+Enter text (end with #): You entered: Black
